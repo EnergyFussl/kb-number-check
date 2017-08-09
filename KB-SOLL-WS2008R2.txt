@@ -105,4 +105,4 @@
 #Remote Desktop Web Access
 2793072 Generic error message when you change your password on a RD Web Access website in Windows Server 2008 R2 or Windows Server 2012
 2705427 The Remote Desktop Web Access website does not show any published RemoteApp programs if a RemoteApp source is offline in Windows Server 2008 R2
-2648402 You cannot change an expired user account password in a remote desktop session that connects to a Windows Server 2008 R2-based RD Session Host server in a VDI environment ***THIS IS A SERVER-SIDE FIX, ALSO SEE 2648397 FOR CLIENT-SIDE FIX***
+2648402 You cannot change an expired user account password in a remote desktop session that connects to a Windows Server 2008 R2-based RD Session Host server in a VDI environment
