@@ -1,0 +1,1 @@
+PowerShell.exe -Command "& './diff_report.ps1'"
